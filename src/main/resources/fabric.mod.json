@@ -8,8 +8,8 @@
 		"Digi"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/digi2303/bloomshift",
+		"sources": "https://github.com/digi2303/bloomshift.git"
 	},
 	"license": "MIT",
 	"icon": "assets/bloomshift/icon.png",
